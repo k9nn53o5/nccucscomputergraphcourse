@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1557666557 source:e:\computer graph\hw\hw-swgl-2\cghw2-s\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1557666557 e:\computer graph\hw\hw-swgl-2\cghw2-s\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1563114848 source:e:\computer graph\hw\hw-swgl-2\cghw2-s\hw2.cpp
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"GLee.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/glut.h>
+	"swgl.h"
+
+1562901215 e:\computer graph\hw\hw-swgl-2\cghw2-s\swgl.h
+	"GLee.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1563116704 source:e:\computer graph\hw\hw-swgl-2\cghw2-s\swgl-hw2.cpp
+	"swgl.h"
+
+1562936013 source:e:\computer graph\hw\hw-swgl-2\cghw2-s\swgl.cpp
+	"swgl.h"
+	<iostream>
+	<cstring>
+	<stack>
+	<cmath>
+
